@@ -1,0 +1,8 @@
+,Development model,Release year.month,Cost estimate (million USD),Source
+Grok 4,Corporate,2025,$490,"EpochAI estimate of energy+compute cost, https://epoch.ai/data-insights/grok-4-training-resources"
+GPT4.5,Corporate,2025,$400,"EpochAI estimate of final training run cost, https://epoch.ai/data-insights/openai-compute-spend"
+GPT4,Corporate,2023,$40,"EpochAI, https://epoch.ai/data-insights/cost-trend-large-scale"
+Apertus (Switzerland),Public,2025,$36,"Author interview with Apertus team, estimate of compute cost, to be published"
+DeepSeek-R1 (DeepSeek),Corporate (Chinese),2025,$6,"EpochAI, https://epoch.ai/gradient-updates/what-went-into-training-deepseek-r1"
+GPT3.5,Corporate,2022,$5,https://epoch.ai/data-insights/cost-trend-large-scale
+AllenAI Olmo3,Nonprofit,2025,$2,"Nathan Lambert, https://www.linkedin.com/posts/natolambert_my-favorite-bit-of-the-olmo-3-paper-transparent-activity-7405316390397616128-Xhb0"
