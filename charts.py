@@ -318,9 +318,9 @@ def plot_parameter_growth():
 
         # Add Apertus manually (outlier)
         apertus_date = pd.to_datetime('2025-03-01')
-        apertus_params = 40e9
+        apertus_params = 70e9
         plt.scatter(apertus_date, apertus_params, color='#ff7f0e', s=150, marker='*', label='Apertus (Public Model)', zorder=5)
-        plt.annotate('Apertus (40B)\nPublic/Open', 
+        plt.annotate('Apertus (70B)\nPublic/Open', 
                      xy=(apertus_date, apertus_params), 
                      xytext=(10, 10), textcoords='offset points',
                      color='#d35400', fontweight='bold', fontsize=10)
