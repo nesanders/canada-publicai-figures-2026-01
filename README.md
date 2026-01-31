@@ -12,7 +12,7 @@ python charts.py
 ## Data Sources
 - **Epoch AI (2025/2026)**: Model parameters, training compute, and cost estimates.
 - **Pew Research (2025)**: International surveys on AI trust and optimism.
-- **Apertus Project**: Data on public/national AI development initiatives.
+- **Apertus Project**: Estimate of training cost and parameter size for the Apertus model specifically.
 
 ## Generated Figures
 
