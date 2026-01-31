@@ -15,9 +15,20 @@ python charts.py
 - **Apertus Project**: Data on public/national AI development initiatives.
 
 ## Generated Figures
-- `figure_cost_comparison.png`: Corporate vs. Public development costs.
-- `figure_parameter_growth.png`: Growth in AI model size (Foundational/Language models).
-- `figure_pew_trust.png`: Global trust in AI regulation.
-- `figure_pew_concern.png`: Regional caution vs. excitement about AI.
+
+### Model Development Costs
+![Corporate vs. Public development costs](figure_cost_comparison.png)
+
+### AI Model Growth Trends
+![Growth in AI model size](figure_parameter_growth.png)
+
+### Public Trust in AI Regulation
+![Global trust in AI regulation](figure_pew_trust.png)
+
+### Global Perspectives on AI
+![Regional caution vs. excitement about AI](figure_pew_concern.png)
+
+### Sentiment Gap
+![Net concern by country](figure_pew_concern_gap.png)
 
 *NOTE:* This code generated with AI assistance (Gemini 3 Flash).
