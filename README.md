@@ -2,6 +2,8 @@
 
 Data and scripts for generating figures for a Canadian newspaper feature on the potential for development of Canadian Public AI models.
 
+This piece was ultimately published at [The Globe and Mail](https://www.theglobeandmail.com/business/commentary/article-openai-tumbler-ridge-chatgpt/).
+
 ## Quick Start
 ```bash
 conda env create -f environment.yml
